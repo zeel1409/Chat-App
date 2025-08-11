@@ -16,7 +16,7 @@
 
         .chat-container {
             width: 400px;
-            height: 580px;
+            height: 550px;
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
             border-radius: 20px;
@@ -230,5 +230,6 @@
                 border-radius: 0;
             }
         }
+
 
 
